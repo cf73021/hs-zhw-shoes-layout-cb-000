@@ -40,6 +40,7 @@
   float: left;
   width: 66%;
   margin 5px
+  max-height: 100%
 }
 [class*="col-"] {
   margin-left: 2%;
