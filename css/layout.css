@@ -25,15 +25,14 @@
 /* Posititoning Classes */
 
 .col-1 {
-  float: right;
+  float: left;
   width: 32%;
-  padding: .1%;
 }
 
 .col-3 {
   float: right;
   width: 32%;
-  max-height: 103%;
+  min-height: 593px;
 }
 
 .col-2 {
