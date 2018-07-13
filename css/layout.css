@@ -24,14 +24,10 @@
 
 /* Posititoning Classes */
 
-.col-1-first {
-  float: left;
-  width: 32%;
-}
-
 .col-1 {
   float: right;
   width: 32%;
+  padding: .1%;
 }
 
 .col-3 {
@@ -50,6 +46,7 @@
   margin-left: 2%;
   margin-top: 2%
 }
+
 .first {
-  margin-left: 0%
+  margin-left: 0%;
 }
