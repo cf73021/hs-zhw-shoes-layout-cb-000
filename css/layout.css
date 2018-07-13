@@ -37,7 +37,7 @@
 .col-3 {
   float: right;
   width: 31%;
-  min-width: 590px;
+  min-width: 589px;
 }
 
 [class*="col-"] {
