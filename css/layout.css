@@ -38,7 +38,6 @@
 .col-3 {
   float: right;
   width: 31%;
-  margin: 5px
 }
 
 [class*="col-"] {
