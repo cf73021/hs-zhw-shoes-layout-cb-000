@@ -26,7 +26,7 @@
 
 .col-1 {
   float: left;
-  width: 25%;
+  width: 32%;
 }
 
 .col-3 {
@@ -41,12 +41,10 @@
   margin 5px
   max-height: 100%
 }
-
 [class*="col-"] {
   margin-left: 2%;
   margin-top: 2%
 }
-
 .first {
   margin-left: 0%
 }
